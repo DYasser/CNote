@@ -6,6 +6,8 @@
 #include <sstream>
 #include <ctime>
 
+#define INT_MAX 999999999999999999999999
+
 using namespace std;
 
 string month;
